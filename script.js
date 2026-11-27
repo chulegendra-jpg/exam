@@ -23,3 +23,14 @@ products.push(Watch = {
 })
 
 products.shift()
+
+let x = 375000000 + 95000000 + 20000000 + 10000000
+
+let shop = {
+    name : 'matin',
+    products : products,
+    address : {
+        city : 'tehran',
+        pelak : 618
+    }
+}
