@@ -44,3 +44,8 @@ let charger = {
 }
 
 let r = products.concat(charger)
+
+console.log(products);
+console.log(y);
+console.log(x);
+console.log(r);
