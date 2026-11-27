@@ -34,3 +34,13 @@ let shop = {
         pelak : 618
     }
 }
+
+let y = Object.entries(products)
+
+let charger = {
+    name : "xiaomi",
+    wat : 57,
+    price : 6000000
+}
+
+let r = products.concat(charger)
