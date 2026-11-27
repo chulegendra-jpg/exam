@@ -21,3 +21,5 @@ products.push(Watch = {
     price: 10000000,
     category: 'electronic'
 })
+
+products.shift()
