@@ -49,3 +49,7 @@ console.log(products);
 console.log(y);
 console.log(x);
 console.log(r);
+
+let end = products.concat(shop)
+
+console.log(end);
